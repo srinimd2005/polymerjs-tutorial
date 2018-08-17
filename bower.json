@@ -1,0 +1,21 @@
+{
+  "name": "cryptoprice-dash",
+  "homepage": "https://github.com/srinimd2005/polymerjs-tutorial",
+  "authors": [
+    "srinivas <srinimd2005@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0.0"
+  }
+}
